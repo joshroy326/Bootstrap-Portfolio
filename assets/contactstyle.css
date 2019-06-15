@@ -1,0 +1,21 @@
+/* .text-area {
+    width: 912px;
+} */
+.card {
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    position: relative;
+    top: 24px;
+}
+
+.button {
+    position: relative;
+    bottom: 15px;
+    left: 20px;
+}
+
+body {
+    background-image: url(../assets/images/prism.png);
+    background-size: cover;
+
+}
